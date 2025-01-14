@@ -1,0 +1,16 @@
+-	START	-
+-	MACRO	-
+-	ABC	&A,&B
+-	A	1,&A
+-	ST	1,&B
+-	MEND	-
+-	MACRO	-
+-	XYZ	&X,&Y,&Z
+-	L	1,&X
+-	ABC	&Y,&Z
+-	ABC	&X,&Z
+-	MEND	-
+-	L	1,P
+-	XYZ	D1,D2,D3
+-	ST	1,J
+-	END	-

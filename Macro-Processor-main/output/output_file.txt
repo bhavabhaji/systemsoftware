@@ -1,0 +1,9 @@
+-	START	-
+-	L	1,P
+-	L	1,D1
+-	A	1,D2
+-	ST	1,D3
+-	A	1,D1
+-	ST	1,D3
+-	ST	1,J
+-	END	-
